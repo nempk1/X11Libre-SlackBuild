@@ -1,4 +1,7 @@
-﻿# X11Libre-SlackBuild
+# Fork reason
+The only reason for this fork to exist is to update the xlibre source code used. I will only add and remove changes if needed.
+ 
+# X11Libre-SlackBuild
 
 This repository provides a Slackware X11 build tree modified to build [XLibre](https://github.com/X11Libre/xserver). The sources were imported from Slackware-current Xorg and the XLibre project on July 1, 2025 and are constantly updated.
 
